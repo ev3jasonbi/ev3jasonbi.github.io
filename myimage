@@ -1,0 +1,6 @@
+ <html>
+ <head>
+ <h1> image of a lego flyer
+  <img src="20170608_123515.jpg" alt="modified lego fliyer" width="200" height="100  style="transform:rotate(180deg);">
+ </head>
+ </html>
